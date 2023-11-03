@@ -5,6 +5,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// проверка работы
+
 #define SUCCESS 1
 #define FAILURE 0
 #define EPS 1e-7
